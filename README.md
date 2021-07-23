@@ -4,5 +4,7 @@ This is a project of Political Research Associates. If you're interested in lear
 Webinar list:
 
 [You Will Not Erase Us](https://political-research-associates.github.io/audio-project/You-Will-Not-Erase-Us/You-Will-Not-Erase-Us.html)
+
 [Precarity](https://political-research-associates.github.io/audio-project/Precarity/Precarity.html)
+
 [Mobilizing for Reprodutive Justice](https://political-research-associates.github.io/audio-project/ReproJustice/ReproJustice.html)
