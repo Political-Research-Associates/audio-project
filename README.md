@@ -8,3 +8,5 @@ Webinar list:
 [Precarity](https://political-research-associates.github.io/audio-project/Precarity/Precarity.html)
 
 [Mobilizing for Reprodutive Justice](https://political-research-associates.github.io/audio-project/ReproJustice/ReproJustice.html)
+
+[Big Tech](https://political-research-associates.github.io/audio-project/Big_Tech/Big_Tech.html)
