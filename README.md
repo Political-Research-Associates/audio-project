@@ -11,4 +11,4 @@ Webinar list:
 
 [Big Tech](https://political-research-associates.github.io/audio-project/Big_Tech/Big_Tech.html)
 
-[Sheriffs](https://political-research-associates.github.io/audio-project/Sheriffs/Sheriffs.html) 10/07/2021
+[Sheriffs](https://political-research-associates.github.io/audio-project/Sheriffs/Sheriffs.html)
