@@ -14,3 +14,5 @@ Webinar list:
 [Sheriffs](https://political-research-associates.github.io/audio-project/Sheriffs/Sheriffs.html)
 
 [January 6th Briefing](https://political-research-associates.github.io/audio-project/Jan_6/Jan_6.html)
+
+[The Next Frontier](https://political-research-associates.github.io/audio-project/The-Next-Frontier/The-Next-Frontier.html)
