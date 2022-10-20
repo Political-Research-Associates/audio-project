@@ -16,3 +16,5 @@ Webinar list:
 [January 6th Briefing](https://political-research-associates.github.io/audio-project/Jan_6/Jan_6.html)
 
 [The Next Frontier](https://political-research-associates.github.io/audio-project/The-Next-Frontier/The-Next-Frontier.html)
+
+[The Hate Frame](https://political-research-associates.github.io/audio-project/The-Hate-Frame/The-Hate-Frame.html)
